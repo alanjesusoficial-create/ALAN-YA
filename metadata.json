@@ -1,0 +1,6 @@
+{
+  "name": "Legado del Conteo",
+  "description": "El Legado del Conteo: De las Civilizaciones Antiguas al Sistema Indoarábigo - Módulos interactivos, retos numéricos y simuladores de cálculo histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
